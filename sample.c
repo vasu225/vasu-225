@@ -1,4 +1,5 @@
 void main()
 {
-	bank code ("test code");
+	Bank code("test code");
+	Bank code("test code");
 }
